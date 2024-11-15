@@ -2632,7 +2632,7 @@ Dies ist eine ressourcenbelastende Aufgabe, daher beträgt das empfohlene Interv
     <value>Laden</value>
   </data>
   <data name="ComponentStatus_Ok" xml:space="preserve">
-    <value>Durchführung</value>
+    <value>Läuft</value>
   </data>
   <data name="ComponentStatus_Stopped" xml:space="preserve">
     <value>Gestoppt</value>
